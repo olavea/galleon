@@ -82,7 +82,7 @@
                                         "
                                     />
                                     <img
-                                        src="https://ouch-cdn2.icons8.com/l_nCZRcW4Sv9_qmBPxMGA0DoQIVNLBge3tVPk5sVU-Q/rs:fit:368:368/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvMzA2/LzNkYzlmM2NmLWMw/YWYtNDczNi1hNmQ4/LWUwODMwOGI5MGRj/ZC5zdmc.png"
+                                        src="https://ouch-cdn2.icons8.com/TwmcbSQ00wi8a-3Mb9-YLMxU7pjdIdLVhB8Mzox4QX8/rs:fit:368:276/extend:false/wm:1:re:0:0:0.8/wmid:ouch2/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvNTkx/LzAyZDVjMzI5LTYy/NjktNDY0NC1iOTM3/LTViNWE1OWQ2ZDMx/OS5zdmc.png"
                                         alt="Laravel documentation screenshot"
                                         class="hidden aspect-video h-full w-full flex-1 rounded-[10px] object-bottom object-cover drop-shadow-[0px_4px_34px_rgba(0,0,0,0.25)] dark:block"
                                     />
