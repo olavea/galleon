@@ -72,7 +72,7 @@
                                 <div id="screenshot-container" class="relative flex w-full flex-1 items-stretch">
                                     <img
                                         src="https://ouch-cdn2.icons8.com/l_nCZRcW4Sv9_qmBPxMGA0DoQIVNLBge3tVPk5sVU-Q/rs:fit:368:368/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvMzA2/LzNkYzlmM2NmLWMw/YWYtNDczNi1hNmQ4/LWUwODMwOGI5MGRj/ZC5zdmc.png"
-                                        alt="Laravel documentation screenshot"
+                                        alt="Galleon documentation"
                                         class="aspect-video h-full w-full flex-1 rounded-[10px] object-bottom object-cover drop-shadow-[0px_4px_34px_rgba(0,0,0,0.06)] dark:hidden"
                                         onerror="
                                             document.getElementById('screenshot-container').classList.add('!hidden');
